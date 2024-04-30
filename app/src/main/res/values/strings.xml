@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PharmacyApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="medicines">
+        <item>panadol</item>
+        <item>cataflam</item>
+        <item>volatren</item>
+        <item>biotin</item>
+        <item>vaseline</item>
+        <item>flector</item>
+        <item>nivea </item>
+        <item>zurcal</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>the description</item>
+        <item>the description</item>
+        <item>the description</item>
+        <item>the description</item>
+        <item>the description</item>
+        <item>the description</item>
+        <item>the description</item>
+        <item>the description</item>
+
+    </string-array>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+</resources>
